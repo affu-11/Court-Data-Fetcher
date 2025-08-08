@@ -43,14 +43,13 @@ Visit http://127.0.0.1:5000 in your browser.
 
 # Project Structure
 court-data-fetcher/
-│
-├── app.py                  # Main Flask backend
-├── scraper.py              # Web scraping logic
-├── templates/
-│   └── index.html          # Frontend form and result display
-├── cases.db                # SQLite database (auto-created)
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+   1.  app.py                  # Main Flask backend
+   2.  scraper.py              # Web scraping logic
+   3.  templates
+         index.html          # Frontend form and result display
+   4. cases.db                # SQLite database (auto-created)
+   5. requirements.txt        # Python dependencies
+   6. README.md               # Project documentation
 
 # Demo Video
 https://www.loom.com/share/b68eb30585234e55be4bbb081a431818?sid=e6bab454-6dc7-4b4c-98b9-7df50fd27e4b
