@@ -17,11 +17,11 @@ The app uses a backend scraper (e.g., Playwright or Requests+BeautifulSoup) to f
 5. Simple UI using Bootstrap
 
 # Tech Stack
-# Layer	                   # Tool
-Backend                	Python, Flask
-Web                     Scraping	Playwright (or Requests + BeautifulSoup)
-Frontend	              HTML, Bootstrap
-Database	              SQLite
+# Layer	                   Tool
+1. Backend                	Python, Flask
+2. Web                     Scraping	Playwright (or Requests + BeautifulSoup)
+3. Frontend	         HTML, Bootstrap
+4. Database	         SQLite
 
 # How to Run
 1. Clone the repository
@@ -56,10 +56,10 @@ court-data-fetcher/
 https://www.loom.com/share/b68eb30585234e55be4bbb081a431818?sid=e6bab454-6dc7-4b4c-98b9-7df50fd27e4b
 
 # Future Improvements
-Add captcha handling (if scraping more courts)
-Support for multiple court websites (e.g., Faridabad, Mumbai)
-Admin dashboard to view query logs
-Export logs to CSV
+1. Add captcha handling (if scraping more courts)
+2. Support for multiple court websites (e.g., Faridabad, Mumbai)
+3. Admin dashboard to view query logs
+4. Export logs to CSV
  
 # Disclaimer
 This tool is built for educational/demo purposes. Court data may be subject to change, and scraping should comply with the target website's terms of use.
