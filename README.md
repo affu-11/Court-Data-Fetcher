@@ -18,10 +18,10 @@ The app uses a backend scraper (e.g., Playwright or Requests+BeautifulSoup) to f
 
 # Tech Stack
 # Layer	                   Tool
-1. Backend                	Python, Flask
-2. Web                     Scraping	Playwright (or Requests + BeautifulSoup)
-3. Frontend	         HTML, Bootstrap
-4. Database	         SQLite
+1. Backend:               	Python, Flask
+2. Web:                     Scraping	Playwright (or Requests + BeautifulSoup)
+3. Frontend:	         HTML, Bootstrap
+4. Database:	         SQLite
 
 # How to Run
 1. Clone the repository
