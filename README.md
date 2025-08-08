@@ -45,7 +45,7 @@ Visit http://127.0.0.1:5000 in your browser.
 court-data-fetcher/
    1.  app.py                  # Main Flask backend
    2.  scraper.py              # Web scraping logic
-   3.  templates
+   3.  templates --->
          index.html          # Frontend form and result display
    4. cases.db                # SQLite database (auto-created)
    5. requirements.txt        # Python dependencies
