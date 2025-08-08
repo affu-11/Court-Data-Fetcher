@@ -10,19 +10,18 @@ A lightweight web application that lets users search Indian court case details (
 The app uses a backend scraper (e.g., Playwright or Requests+BeautifulSoup) to fetch data from the Delhi High Court portal or an eCourts website and stores logs in a SQLite database.
 
 # Features
-Input form to search for court cases
-Displays key case details
-Download link to latest order/judgment PDF
-Raw HTML stored in SQLite for debugging or audit
-Simple UI using Bootstrap
-Tech Stack
+1. Input form to search for court cases
+2. Displays key case details
+3. Download link to latest order/judgment PDF
+4. Raw HTML stored in SQLite for debugging or audit
+5. Simple UI using Bootstrap
 
+# Tech Stack
 # Layer	                   # Tool
 Backend                	Python, Flask
 Web                     Scraping	Playwright (or Requests + BeautifulSoup)
 Frontend	              HTML, Bootstrap
 Database	              SQLite
-
 
 # How to Run
 1. Clone the repository
