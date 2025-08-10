@@ -36,10 +36,18 @@ venv\Scripts\activate
 
 3. Install dependencies
 pip install -r requirements.txt
+<img width="1451" height="465" alt="Screenshot 2025-08-10 121136" src="https://github.com/user-attachments/assets/dbc6c795-ef96-460d-a459-ad16bbdbf970" />
 
-4. Run the app
+
+5. Run the app
 python app.py
 Visit http://127.0.0.1:5000 in your browser.
+<img width="1462" height="747" alt="Screenshot 2025-08-10 120953" src="https://github.com/user-attachments/assets/3d84fe3f-dc0f-48d2-9f0f-55b33202b5ab" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-10 120714" src="https://github.com/user-attachments/assets/5ac6ec82-d961-47a4-8d23-6e97c5c33eeb" />
+
 
 # Project Structure
 court-data-fetcher/
