@@ -15,6 +15,8 @@ The app uses a backend scraper (e.g., Playwright or Requests+BeautifulSoup) to f
 3. Download link to latest order/judgment PDF
 4. Raw HTML stored in SQLite for debugging or audit
 5. Simple UI using Bootstrap
+6. <img width="1904" height="860" alt="Screenshot 2025-08-10 121336" src="https://github.com/user-attachments/assets/ffb53501-e3b8-49d2-93d4-c495b6b79ffe" />
+
 
 # Tech Stack
 # Layer	                   Tool
